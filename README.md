@@ -64,7 +64,7 @@ El sistema cuenta con tres tipos de usuarios, cada uno con diferentes niveles de
 4. Configura tu base de datos en el archivo `.env`
 5. Genera una nueva clave de aplicación: `php artisan key:generate`
 6. Ejecuta las migraciones de la base de datos: `php artisan migrate`
-7. Ejecutar las seed 'php artisan db:seed'   
+7. Ejecutar las seed `php artisan db:seed`  
 8. Inicia el servidor: `php artisan serve`
 
  ## Gracias!
